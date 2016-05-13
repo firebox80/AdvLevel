@@ -1,0 +1,1 @@
+include ':app', ':internet', ':sms',':compass', ':socket', ':petition', ':quicksearch', ':webview', ':geolocation', ':map', ':sql', ':sql_lesson', ':googlemap', ':sensors', ':facebook'

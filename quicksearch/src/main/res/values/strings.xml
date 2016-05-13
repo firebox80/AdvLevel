@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Search</string>
+    <string name="path">Path</string>
+    <string name="name">Name</string>
+</resources>

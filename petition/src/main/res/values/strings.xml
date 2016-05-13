@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Все петиции</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_city">Искать по городу</string>
+    <string name="action_district">Искать по району</string>
+    <string name="action_region">Искать по области</string>
+
+</resources>

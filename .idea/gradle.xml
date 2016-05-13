@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/compass" />
+            <option value="$PROJECT_DIR$/facebook" />
+            <option value="$PROJECT_DIR$/geolocation" />
+            <option value="$PROJECT_DIR$/googlemap" />
+            <option value="$PROJECT_DIR$/internet" />
+            <option value="$PROJECT_DIR$/map" />
+            <option value="$PROJECT_DIR$/petition" />
+            <option value="$PROJECT_DIR$/quicksearch" />
+            <option value="$PROJECT_DIR$/sensors" />
+            <option value="$PROJECT_DIR$/sms" />
+            <option value="$PROJECT_DIR$/socket" />
+            <option value="$PROJECT_DIR$/sql" />
+            <option value="$PROJECT_DIR$/sql_lesson" />
+            <option value="$PROJECT_DIR$/webview" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/compass" />
+            <option value="$PROJECT_DIR$/facebook" />
+            <option value="$PROJECT_DIR$/geolocation" />
+            <option value="$PROJECT_DIR$/googlemap" />
+            <option value="$PROJECT_DIR$/internet" />
+            <option value="$PROJECT_DIR$/map" />
+            <option value="$PROJECT_DIR$/petition" />
+            <option value="$PROJECT_DIR$/quicksearch" />
+            <option value="$PROJECT_DIR$/sensors" />
+            <option value="$PROJECT_DIR$/sms" />
+            <option value="$PROJECT_DIR$/socket" />
+            <option value="$PROJECT_DIR$/sql" />
+            <option value="$PROJECT_DIR$/sql_lesson" />
+            <option value="$PROJECT_DIR$/webview" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
